@@ -1,36 +1,22 @@
-# 👨‍💻 Portfólio - Aprendendo C
+# 👨‍💻 Antonio Neto - Portfólio em C
 
-Olá! Meu nome é Antonio Gilberto Faria Neto.
+Sou estudante de Engenharia de Software e estou iniciando meus estudos em programação.
 
-Estou iniciando meus estudos em programação na faculdade de Engenharia de Software e este repositório contém alguns exercícios que estou desenvolvendo para praticar lógica de programação na linguagem C.
+Este repositório contém exercícios práticos que estou desenvolvendo em linguagem C para melhorar minha lógica de programação.
 
----
-
-## 📚 O que estou aprendendo:
+## 📚 Conteúdos estudados:
 
 - Estruturas de decisão (if / else)
 - Vetores (arrays)
-- Matrizes
 - Laços de repetição (for)
 - Entrada de dados com scanf
 
----
+## 💻 Exercícios:
 
-## 💻 Exercícios já feitos:
-
-- ✔ Vetor com notas
-- ✔ Entrada de números com scanf
-- ✔ Uso de for para repetir ações
-- 🔜 Matrizes (em aprendizado)
-
----
+- Entrada de números com scanf
+- Uso de vetores
+- Repetição com for
 
 ## 🎯 Objetivo:
 
-Evoluir minhas habilidades em programação e conquistar uma oportunidade de estágio na área de tecnologia.
-
----
-
-## 🚀 Observação:
-
-Este repositório será atualizado conforme eu for aprendendo novos conteúdos.
+Aprender programação e conquistar uma oportunidade de estágio na área de tecnologia.
